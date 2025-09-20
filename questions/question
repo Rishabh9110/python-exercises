@@ -1,0 +1,69 @@
+Ask the user for their name and print: “Hello <name>!”.
+
+Take two numbers as input and print their sum, difference, product, and division.
+
+Convert temperature from Celsius to Fahrenheit.
+
+Enter a sentence and print the number of characters in it.
+
+Enter a number and check if it is positive, negative, or zero.
+
+Take three numbers and print the largest.
+
+Find the average of a list: [10, 20, 30, 40, 50].
+
+Enter a string and print each character on a new line.
+
+🟡 Medium (conditions, loops, strings/lists)
+
+Print the multiplication table of a number entered by the user.
+
+Find the sum of numbers from 1 to n (user enters n).
+
+Take a list as input and check if it has duplicate elements.
+
+Take 5 numbers from the user and print the maximum and minimum.
+
+Check if a given string is a palindrome.
+
+Check if a given number is prime.
+
+Print the first n terms of the Fibonacci series.
+
+Print numbers from 1 to 100 that are divisible by 3 or 5.
+
+From a list, create a new list containing squares of all even numbers.
+
+Count the number of vowels and consonants in a sentence.
+
+Make a countdown program using a while loop (start from user input and go to 1).
+
+Given a list of numbers, print the factorial of each element.
+
+🔵 Tricky / logical
+
+Create a “Number Guessing Game” (computer picks a random number, user guesses until correct).
+
+Find the largest and smallest element in a list without using built-in functions.
+
+Capitalize the first letter of each word in a sentence (without using built-in methods like title()).
+
+Reverse a number entered by the user (e.g., 123 → 321).
+
+Print the star pattern:
+
+*
+**
+***
+****
+
+
+Create a grade calculator: take marks and print the grade (A/B/C/Fail).
+
+From a list, extract all odd numbers into a new list.
+
+Create a dictionary of 5 students with marks and find the average marks.
+
+Enter a sentence and find the longest word in it.
+
+Enter a number and find the sum of its digits.
